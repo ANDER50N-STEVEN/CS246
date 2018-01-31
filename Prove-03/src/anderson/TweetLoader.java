@@ -33,10 +33,10 @@ public class TweetLoader {
 //  }
 //
         cb.setDebugEnabled(true)
-                .setOAuthConsumerKey("TQkXneA0oATmpBH1hQWxUbXaR")
-                .setOAuthConsumerSecret("PngZB3TS31GyPlILORjCPIuxd1EzwtJ08dN65iNYDsiMUjeZvz")
-                .setOAuthAccessToken("3118983517-pwtpvCqK8dySpSY18i8s3meJuEWYoyd2FdlsnK2")
-                .setOAuthAccessTokenSecret("3esxVthZgDuttPGClh4Pvp3iJLECHqv7iEBkLEq2N5f8h")
+                .setOAuthConsumerKey("xxxxxx")
+                .setOAuthConsumerSecret("xxxxxxxxxxxxxxxx")
+                .setOAuthAccessToken("xxxxxxxxxxxxxxxxxxxxxxxxxx")
+                .setOAuthAccessTokenSecret("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
                 .setJSONStoreEnabled(true);
 
         TwitterFactory tf = new TwitterFactory(cb.build());
