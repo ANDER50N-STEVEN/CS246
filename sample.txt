@@ -1,2 +1,6 @@
 the best file ever 
+<<<<<<< HEAD
 but It can be better
+=======
+but It can be better
+>>>>>>> 0c895f5ce08290d4f790258e8225d63be12b19aa
